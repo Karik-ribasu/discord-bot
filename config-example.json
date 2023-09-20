@@ -1,0 +1,19 @@
+{
+  "channel_id": "channel id",
+  "roles": [
+    {
+      "id": "role id",
+      "label": "role name",
+      "style": 1
+    },
+    {
+      "id": "role id",
+      "label": "role name",
+      "style": 2
+    }
+  ],
+
+  "client_id": "client_id",
+  "client_sercet": "client_sercet",
+  "bot_token": "bot_token"
+}
